@@ -1,0 +1,15 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #0a0a14; color: #e0d8f0; overflow: hidden; height: 100vh; }
+.hidden { display: none; }
+.admin-view, .player-view { padding: 1.5rem; }
+.admin-view { max-width: 800px; margin: 0 auto; }
+.field { margin-bottom: 1.2rem; }
+.field label { display: block; font-size: 0.9rem; margin-bottom: 0.4rem; color: #ccc; }
+.field select, .field input, .field textarea {
+  width: 100%; padding: 10px; border-radius: 6px; background: #0e0e1a;
+  border: 1px solid #2a2a4a; color: #e0d8f0; font-size: 0.95rem;
+}
+.field button { padding: 10px 16px; border: none; border-radius: 6px; cursor: pointer; background: #c8b6ff; color: #0a0a14; font-weight: 600; margin-right: 0.5rem; }
+.field button:hover { filter: brightness(1.1); }
+.field button.secondary { background: #2a2a4a; }
+.field small { color: #666; font-size: 0.8rem; margin-top: 0.3rem; }
