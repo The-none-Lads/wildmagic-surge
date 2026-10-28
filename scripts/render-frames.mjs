@@ -2,7 +2,7 @@
 // Usage: node scripts/render-frames.mjs [outDir] [id ...]
 import { createCanvas } from '@napi-rs/canvas';
 import fs from 'node:fs';
-import { DEDICATED_SCENES } from '../src/animations/scenes/dedicated.js';
+import { DEDICATED_SCENES } from '../src/animations/scenes/index.js';
 import { rng } from '../src/animations/scenes/toolkit.js';
 
 const [out = '/tmp/frames', ...only] = process.argv.slice(2);
