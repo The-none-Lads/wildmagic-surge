@@ -3,9 +3,10 @@ import { HEALING_SCENES } from './healing.js';
 import { TELEPORT_SCENES } from './teleports.js';
 import { POLYMORPH_SCENES } from './polymorph.js';
 import { ILLUSION_SCENES } from './illusions.js';
+import { ELEMENTAL_SCENES } from './elemental.js';
 
 // One flat table keyed by stable table id. Add each new effect family's scenes here.
-export const DEDICATED_SCENES = { ...BASE, ...HEALING_SCENES, ...TELEPORT_SCENES, ...POLYMORPH_SCENES, ...ILLUSION_SCENES };
+export const DEDICATED_SCENES = { ...BASE, ...HEALING_SCENES, ...TELEPORT_SCENES, ...POLYMORPH_SCENES, ...ILLUSION_SCENES, ...ELEMENTAL_SCENES };
 
 /** Returns the dedicated canvas scene for a table id, or null if the entry only has the legacy fallback. */
 export function getScene(id) {
