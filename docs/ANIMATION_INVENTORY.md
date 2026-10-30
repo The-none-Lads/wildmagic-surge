@@ -1,6 +1,6 @@
 # Animation inventory (generated)
 
-Dedicated: 29/118. Legacy-only (not counted as finished): 89.
+Dedicated: 41/118. Legacy-only (not counted as finished): 77.
 
 | id | status | verification | table text | concept |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ Dedicated: 29/118. Legacy-only (not counted as finished): 89.
 | 7 | legacy-config | none | Small, harmless flowers sprout from any surface you touch for the next minute. |  |
 | 8 | legacy-config | none | You hiccup once, and a tiny puff of colorful smoke escapes your mouth. Nothing else happen |  |
 | 9 | legacy-config | none | Your eyes glow faintly like embers for the next hour. This sheds dim light in a 5-foot rad |  |
-| 10 | legacy-config | none | A spectral kitten appears on your shoulder for 1 minute. It purrs loudly, then vanishes. |  |
+| 10 | dedicated | frames inspected (headless) | A spectral kitten appears on your shoulder for 1 minute. It purrs loudly, then vanishes. | A translucent kitten shimmers into being on the caster's shoulder with a sparkle, its tail swishing while soft… |
 | 11 | legacy-config | none | Your footsteps produce tiny musical notes (visible, not audible) for the next 10 minutes. |  |
 | 12 | legacy-config | none | You become aware of the exact number of copper coins within 60 feet of you. The knowledge  |  |
-| 13 | legacy-config | none | Your shadow moves independently of you for the next minute, mimicking gestures you made an |  |
+| 13 | dedicated | frames inspected (headless) | Your shadow moves independently of you for the next minute, mimicking gestures you made an | Low light throws a long shadow across the ground; while the caster stands rigid the shadow detaches its timing… |
 | 14 | dedicated | draws without error only | A single illusory firework explodes 20 feet above your head. It is loud and bright but dea | A rocket streaks up from the caster's hand and bursts into three layered shells with chromatic "hologram" ghos… |
 | 15 | legacy-config | none | Your fingernails turn to polished gold for 1 hour. They are cosmetic only and cannot be so |  |
 | 16 | legacy-config | none | You sneeze, and a small, non-magical gemstone (worth 1 gp) flies out of your nose. |  |
@@ -27,7 +27,7 @@ Dedicated: 29/118. Legacy-only (not counted as finished): 89.
 | 21 | legacy-config | none | You gain the ability to perfectly mimic any animal sound you have heard before. This lasts |  |
 | 22 | legacy-config | none | Faint arcane runes appear on your forearms, glowing softly. They are illegible and fade af |  |
 | 23 | legacy-config | none | Your next yawn (within 1 hour) produces a tiny, harmless lightning bolt that arcs between  |  |
-| 24 | legacy-config | none | A phantom drumroll plays from nowhere for exactly 3 seconds. Everyone within 30 feet hears |  |
+| 24 | dedicated | frames inspected (headless) | A phantom drumroll plays from nowhere for exactly 3 seconds. Everyone within 30 feet hears | A faint spectral snare drum appears in mid-air from nowhere; blurred sticks alternate for exactly three second… |
 | 25 | legacy-config | none | You taste copper in your mouth for 1 minute. Your tongue tingles slightly. No other effect |  |
 | 26 | dedicated | draws without error only | You teleport up to 10 feet in a random direction. If the destination is occupied, you do n | A hair-thin vertical slit opens, the caster is squeezed edge-on into it, the slit hops 10 ft left or right (ro… |
 | 27 | legacy-config | none | You gain resistance to fire damage for the next minute. |  |
@@ -35,12 +35,12 @@ Dedicated: 29/118. Legacy-only (not counted as finished): 89.
 | 29 | dedicated | frames inspected (headless) | You regain 1d4 hit points immediately. | Four small motes (one per die face) spiral up from the floor, sink into the caster's chest with tiny flashes, … |
 | 30 | dedicated | frames inspected (headless) | You grow 1d6 inches taller for the next 10 minutes, then return to normal height. | A tape-measure strip with six inch marks stands beside the caster; the figure stretches with an anticipatory s… |
 | 31 | legacy-config | none | The next weapon attack made against you within 1 minute has disadvantage. |  |
-| 32 | legacy-config | none | You can see invisible creatures and objects for the next round. |  |
+| 32 | dedicated | frames inspected (headless) | You can see invisible creatures and objects for the next round. | A creature that is only a heat-haze ripple in the striped wall is suddenly outlined by a sweeping lens-ring fr… |
 | 33 | legacy-config | none | A shield of translucent energy appears around you. You gain +2 AC until the start of your  |  |
 | 34 | legacy-config | none | You levitate 1 foot off the ground for 1 minute. Your movement speed is halved while levit |  |
 | 35 | legacy-config | none | Each creature within 10 feet of you takes 1d4 thunder damage as a shockwave ripples outwar |  |
 | 36 | legacy-config | none | You gain darkvision (60 ft) for the next hour. If you already have darkvision, its range e |  |
-| 37 | legacy-config | none | A small illusory double of you appears and mimics your movements for 1 minute. It cannot i |  |
+| 37 | dedicated | frames inspected (headless) | A small illusory double of you appears and mimics your movements for 1 minute. It cannot i | A scan-lined blue double steps out of the caster, sways in lock-step, then reaches straight through a solid cr… |
 | 38 | legacy-config | none | You become immune to the frightened condition for the next 10 minutes. |  |
 | 39 | legacy-config | none | Your walking speed increases by 10 feet for the next minute. |  |
 | 40 | legacy-config | none | The nearest unlocked door within 60 feet slams open (or shut, if already open). |  |
@@ -55,20 +55,20 @@ Dedicated: 29/118. Legacy-only (not counted as finished): 89.
 | 49 | legacy-config | none | The ground within 10 feet of you becomes difficult terrain (covered in frost) for 1 minute |  |
 | 50 | legacy-config | none | You learn the surface thoughts of one creature within 30 feet (as if you cast Detect Thoug |  |
 | 51 | legacy-config | none | Your weapon (or the nearest weapon within 5 feet) begins to hum and glow faintly for 1 min |  |
-| 52 | legacy-config | none | A spectral hand appears and drops a random mundane object (rope, torch, rations) at your f |  |
+| 52 | dedicated | frames inspected (headless) | A spectral hand appears and drops a random mundane object (rope, torch, rations) at your f | A translucent hand trailing sleeve-wisps lowers from above clutching a mundane object (rope coil, torch or rat… |
 | 53 | legacy-config | none | You gain resistance to cold damage for the next minute. |  |
 | 54 | dedicated | frames inspected (headless) | You shrink 1d6 inches for the next 10 minutes, then return to normal size. | Inward-pointing chevrons press on the caster, who dips smaller beside a dropped coin and tall grass blades tha… |
 | 55 | legacy-config | none | One random creature within 30 feet must succeed on a DC 12 Wisdom save or be unable to spe |  |
 | 56 | dedicated | frames inspected (headless) | A burst of wild energy heals you for 2d4 hit points but also pushes you 5 feet in a random | Wild green-gold energy churns, bursts outward in a ring, and slams the caster sideways (direction rolled each … |
-| 57 | legacy-config | none | You become translucent for 1 round. You gain advantage on Stealth checks but can still be  |  |
+| 57 | dedicated | frames inspected (headless) | You become translucent for 1 round. You gain advantage on Stealth checks but can still be  | The caster's colour drains until the striped wall behind shows through, with the background refracting slightl… |
 | 58 | legacy-config | none | A static charge builds on your body. The next creature that touches you takes 1d6 lightnin |  |
 | 59 | legacy-config | none | You can read all written languages for the next 10 minutes. |  |
 | 60 | legacy-config | none | A phantom wind howls through the area. Every creature within 15 feet must succeed on a DC  |  |
 | 61 | dedicated | frames inspected (headless) | You cast Fireball centered on yourself at 3rd level. You and all creatures within 20 feet  | Embers are drawn into the caster, a single white-hot detonation blooms into a 20-ft billowing fireball engulfi… |
 | 62 | dedicated | frames inspected (headless) | You are polymorphed into a sheep for 1 minute. You retain your mental ability scores but c | Pink glitter spirals tighten round the caster, who squashes into a puff of cloud; a fluffy sheep bounces out w… |
 | 63 | dedicated | frames inspected (headless) | You teleport up to 60 feet to a random unoccupied space. The DM chooses the destination. | Rune circle flares, the caster dissolves into ~260 particles that arc across a stretched, streaked gap and re-… |
-| 64 | legacy-config | none | A spectral beast (use the statistics of a wolf) appears in an unoccupied space within 10 f |  |
-| 65 | legacy-config | none | You and each creature within 20 feet become invisible for 1 round. Attacking or casting a  |  |
+| 64 | dedicated | frames inspected (headless) | A spectral beast (use the statistics of a wolf) appears in an unoccupied space within 10 f | Two red eyes ignite in a patch of mist, a pale spectral wolf coalesces out of wisps ten feet from the caster, … |
+| 65 | dedicated | frames inspected (headless) | You and each creature within 20 feet become invisible for 1 round. Attacking or casting a  | An expanding ring sweeps over three figures; each flickers to an outline and then vanishes completely, leaving… |
 | 66 | dedicated | frames inspected (headless) | You age 1d10 years. This can be reversed by a Greater Restoration spell. | A clock-face above the caster spins forward as calendar leaves drift down; the cloak greys, the back bows, a l… |
 | 67 | legacy-config | none | Gravity reverses in a 20-foot radius around you for 1 round. All creatures and loose objec |  |
 | 68 | legacy-config | none | You emit a blinding flash. Each creature within 30 feet must succeed on a DC 13 Constituti |  |
@@ -104,7 +104,7 @@ Dedicated: 29/118. Legacy-only (not counted as finished): 89.
 | 98 | dedicated | frames inspected (headless) | You and every creature within 15 feet are banished to a harmless demiplane for 1 round. Yo | A shimmering bubble closes around three figures, then an iris widens from it and replaces the dark world with … |
 | 99 | legacy-config | none | Your wild magic surges again immediately. Roll twice more on this table and apply both eff |  |
 | 100 | legacy-config | none | A massive arcane detonation occurs. Every creature within 40 feet takes 6d6 radiant damage |  |
-| 101 | legacy-config | none | An eye appears on your forehead for the next minute. During that time, you have advantage  |  |
+| 101 | dedicated | frames inspected (headless) | An eye appears on your forehead for the next minute. During that time, you have advantage  | A vertical slit splits open on the caster's forehead into a golden eye that blinks once, then sweeps a lantern… |
 | 102 | legacy-config | none | For the next minute, all your spells with a casting time of 1 action have a casting time o |  |
 | 103 | dedicated | frames inspected (headless) | You are transported to the Astral Plane until the end of your next turn, after which time  | The ground and sky stretch into horizontal star streaks as the caster, turned to silver, lifts off and glides … |
 | 104 | dedicated | frames inspected (headless) | You turn into a potted plant until the start of your next turn. While a plant, you are inc | Vines coil up the caster, who squashes down as roots take the feet; a terracotta pot rises around the stump, l… |
@@ -115,9 +115,9 @@ Dedicated: 29/118. Legacy-only (not counted as finished): 89.
 | 109 | legacy-config | none | You regain all expended sorcery points. |  |
 | 110 | dedicated | frames inspected (headless) | Your size increases by one size category for the next minute. | Golden rings climb the caster, who swells to nearly double height while the ground buckles and dust rolls out;… |
 | 111 | dedicated | frames inspected (headless) | You cast Polymorph on yourself. If you fail the saving throw, you turn into a sheep for th | A polymorph rune circle spins; a wavering vertical seam sweeps across the caster, one side sheep and the other… |
-| 112 | legacy-config | none | A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and i |  |
+| 112 | dedicated | frames inspected (headless) | A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and i | A kite-shaped spectral shield with a rune crest hovers beside the caster; three glowing magic-missile darts ho… |
 | 113 | legacy-config | none | You are immune to being intoxicated by alcohol for the next 5d6 days. |  |
-| 114 | legacy-config | none | For the next minute, you can see any invisible creature if you have line of sight to it. |  |
+| 114 | dedicated | frames inspected (headless) | For the next minute, you can see any invisible creature if you have line of sight to it. | Two sight-lines fan from the caster's eyes toward two invisible creatures; the one in the open is outlined and… |
 | 115 | legacy-config | none | You regain all expended sorcery points. If you have no sorcery points, you regain one 1st- |  |
 | 116 | legacy-config | none | If you die within the next minute, you immediately come back to life as if by the Reincarn |  |
 | 117 | legacy-config | none | You and all creatures within 30 feet of you gain vulnerability to piercing damage for the  |  |
