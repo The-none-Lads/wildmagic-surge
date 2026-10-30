@@ -1,6 +1,6 @@
 # Animation inventory (generated)
 
-Dedicated: 41/118. Legacy-only (not counted as finished): 77.
+Dedicated: 53/118. Legacy-only (not counted as finished): 65.
 
 | id | status | verification | table text | concept |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ Dedicated: 41/118. Legacy-only (not counted as finished): 77.
 | 32 | dedicated | frames inspected (headless) | You can see invisible creatures and objects for the next round. | A creature that is only a heat-haze ripple in the striped wall is suddenly outlined by a sweeping lens-ring fr… |
 | 33 | legacy-config | none | A shield of translucent energy appears around you. You gain +2 AC until the start of your  |  |
 | 34 | legacy-config | none | You levitate 1 foot off the ground for 1 minute. Your movement speed is halved while levit |  |
-| 35 | legacy-config | none | Each creature within 10 feet of you takes 1d4 thunder damage as a shockwave ripples outwar |  |
+| 35 | dedicated | frames inspected (headless) | Each creature within 10 feet of you takes 1d4 thunder damage as a shockwave ripples outwar | The caster squats and compresses, then a thick white pressure ring and two echoes ripple outward, shoving dust… |
 | 36 | legacy-config | none | You gain darkvision (60 ft) for the next hour. If you already have darkvision, its range e |  |
 | 37 | dedicated | frames inspected (headless) | A small illusory double of you appears and mimics your movements for 1 minute. It cannot i | A scan-lined blue double steps out of the caster, sways in lock-step, then reaches straight through a solid cr… |
 | 38 | legacy-config | none | You become immune to the frightened condition for the next 10 minutes. |  |
@@ -49,10 +49,10 @@ Dedicated: 41/118. Legacy-only (not counted as finished): 77.
 | 43 | legacy-config | none | You gain proficiency in one tool or skill of the DM's choice for the next hour. |  |
 | 44 | dedicated | draws without error only | Gravity reverses for you for 1 round. You fall upward 10 feet, then gravity returns to nor | A rune ring inverts gravity: the caster and loose objects float up and flip toward the ceiling, chevrons strea… |
 | 45 | legacy-config | none | Your next melee attack within 1 minute deals an extra 1d6 force damage. |  |
-| 46 | legacy-config | none | All nonmagical flames within 30 feet of you are extinguished instantly. |  |
+| 46 | dedicated | frames inspected (headless) | All nonmagical flames within 30 feet of you are extinguished instantly. | Five torches and a campfire blaze around the caster; a cool grey ring rolls outward and snuffs each flame as i… |
 | 47 | legacy-config | none | You sprout ethereal antlers made of moonlight. They shed bright light in a 10-foot radius  |  |
 | 48 | dedicated | frames inspected (headless) | You gain temporary hit points equal to your proficiency bonus. They last for 1 hour. | Golden-green hexagonal plates snap in from the ground upward until they form a faintly pulsing protective shel… |
-| 49 | legacy-config | none | The ground within 10 feet of you becomes difficult terrain (covered in frost) for 1 minute |  |
+| 49 | dedicated | frames inspected (headless) | The ground within 10 feet of you becomes difficult terrain (covered in frost) for 1 minute | Branching ice fractals race outward from the caster's feet across the floor in perspective, spiking into small… |
 | 50 | legacy-config | none | You learn the surface thoughts of one creature within 30 feet (as if you cast Detect Thoug |  |
 | 51 | legacy-config | none | Your weapon (or the nearest weapon within 5 feet) begins to hum and glow faintly for 1 min |  |
 | 52 | dedicated | frames inspected (headless) | A spectral hand appears and drops a random mundane object (rope, torch, rations) at your f | A translucent hand trailing sleeve-wisps lowers from above clutching a mundane object (rope coil, torch or rat… |
@@ -61,7 +61,7 @@ Dedicated: 41/118. Legacy-only (not counted as finished): 77.
 | 55 | legacy-config | none | One random creature within 30 feet must succeed on a DC 12 Wisdom save or be unable to spe |  |
 | 56 | dedicated | frames inspected (headless) | A burst of wild energy heals you for 2d4 hit points but also pushes you 5 feet in a random | Wild green-gold energy churns, bursts outward in a ring, and slams the caster sideways (direction rolled each … |
 | 57 | dedicated | frames inspected (headless) | You become translucent for 1 round. You gain advantage on Stealth checks but can still be  | The caster's colour drains until the striped wall behind shows through, with the background refracting slightl… |
-| 58 | legacy-config | none | A static charge builds on your body. The next creature that touches you takes 1d6 lightnin |  |
+| 58 | dedicated | frames inspected (headless) | A static charge builds on your body. The next creature that touches you takes 1d6 lightnin | Fine blue-white arcs crawl over the caster's silhouette while a charge ring fills around them; it settles into… |
 | 59 | legacy-config | none | You can read all written languages for the next 10 minutes. |  |
 | 60 | legacy-config | none | A phantom wind howls through the area. Every creature within 15 feet must succeed on a DC  |  |
 | 61 | dedicated | frames inspected (headless) | You cast Fireball centered on yourself at 3rd level. You and all creatures within 20 feet  | Embers are drawn into the caster, a single white-hot detonation blooms into a 20-ft billowing fireball engulfi… |
@@ -82,28 +82,28 @@ Dedicated: 41/118. Legacy-only (not counted as finished): 77.
 | 76 | legacy-config | none | You become ethereal for 1 round. You cannot affect or be affected by the material plane. A |  |
 | 77 | dedicated | frames inspected (headless) | A wave of healing energy surges outward. Every creature within 30 feet regains 2d6 hit poi | Concentric green swells roll outward across the ground; each of five wounded silhouettes lights up and its wou… |
 | 78 | legacy-config | none | You are launched 30 feet straight up into the air. Normal falling rules apply. |  |
-| 79 | legacy-config | none | Your body becomes living flame for 1 round. You are immune to fire damage, and any creatur |  |
+| 79 | dedicated | frames inspected (headless) | Your body becomes living flame for 1 round. You are immune to fire damage, and any creatur | Flames climb the silhouette from the feet until the whole body is a column of fire inside a burning outline, w… |
 | 80 | legacy-config | none | A zone of silence (as the Silence spell) appears centered on you for 1 minute. No concentr |  |
 | 81 | legacy-config | none | Your next spell within 1 minute is cast as if using a slot one level higher than the one y |  |
-| 82 | legacy-config | none | All metal objects within 10 feet of you become red hot for 1 round. Creatures holding meta |  |
-| 83 | legacy-config | none | You summon a Tidal Wave (as the spell) originating from your position in a direction of th |  |
+| 82 | dedicated | frames inspected (headless) | All metal objects within 10 feet of you become red hot for 1 round. Creatures holding meta | A sword, shield, helm and coins heat from dull steel through orange to white with shimmering heat-haze and his… |
+| 83 | dedicated | frames inspected (headless) | You summon a Tidal Wave (as the spell) originating from your position in a direction of th | A towering wall of water with a foaming crest rolls across the whole scene (direction rolled each play), brief… |
 | 84 | legacy-config | none | Your body crackles with static. For the next minute, any spell you cast that deals damage  |  |
 | 85 | dedicated | frames inspected (headless) | You swap positions with a random creature within 30 feet (DM's choice). Neither creature i | A glowing tether links the caster (cyan) and another creature (rose); the two lift and orbit one another half … |
-| 86 | legacy-config | none | You cast Fireball at 5th level centered on yourself. Every creature within 20 feet (includ |  |
+| 86 | dedicated | frames inspected (headless) | You cast Fireball at 5th level centered on yourself. Every creature within 20 feet (includ | A dark ring contracts into a white-hot pinpoint, then a vast ground-hugging blast disc and a rising column top… |
 | 87 | dedicated | frames inspected (headless) | You are petrified until the end of your next turn. You are unconscious and turned to stone | Grey stone creeps up the caster from the feet along a jagged, glowing edge, spreading grain and hairline crack… |
 | 88 | legacy-config | none | An antimagic field (10-foot radius) surrounds you for 1 minute. All magic within the field |  |
 | 89 | dedicated | frames inspected (headless) | You are teleported to a random plane of existence. You return to your original location af | A spiral tunnel opens overhead, banded in fire, water, shadow, celestial and fey colours; the caster is drawn … |
-| 90 | legacy-config | none | Every creature within 30 feet (including you) takes 4d6 force damage. No saving throw. |  |
+| 90 | dedicated | frames inspected (headless) | Every creature within 30 feet (including you) takes 4d6 force damage. No saving throw. | Radial pull-in lines collapse on the caster, then a violet-white pressure shell expands; glass-like cracks for… |
 | 91 | legacy-config | none | You lose the ability to cast spells until the end of your next long rest. Cantrips still f |  |
 | 92 | legacy-config | none | A hostile elemental (DM's choice of type, CR equal to half your level, minimum 1) appears  |  |
 | 93 | legacy-config | none | Your wild magic becomes contagious. The next creature that touches you must roll on this t |  |
 | 94 | dedicated | frames inspected (headless) | You de-age 2d10 years. If this would reduce your age below 1, you become an infant with no | The clock hand runs backwards and calendar pages float up out of the scene; the caster shrinks, the head grows… |
 | 95 | dedicated | frames inspected (headless) | All of your non-magical equipment is teleported to a random location within 500 feet. Your | Six pieces of kit (helm, sword, shield, pack, boots, rope coil) glint, pop off the caster one after another, s… |
-| 96 | legacy-config | none | You trigger a localized earthquake. Every creature within 20 feet must succeed on a DC 14  |  |
-| 97 | legacy-config | none | A permanent Wall of Fire (as the spell) appears in a 20-foot line starting from your posit |  |
+| 96 | dedicated | frames inspected (headless) | You trigger a localized earthquake. Every creature within 20 feet must succeed on a DC 14  | The floor splits into slabs that heave out of phase with widening black fissures; dust jets from the cracks, p… |
+| 97 | dedicated | frames inspected (headless) | A permanent Wall of Fire (as the spell) appears in a 20-foot line starting from your posit | A line of flame erupts at the caster's side and races 20 ft along the floor (left or right, rolled each play),… |
 | 98 | dedicated | frames inspected (headless) | You and every creature within 15 feet are banished to a harmless demiplane for 1 round. Yo | A shimmering bubble closes around three figures, then an iris widens from it and replaces the dark world with … |
 | 99 | legacy-config | none | Your wild magic surges again immediately. Roll twice more on this table and apply both eff |  |
-| 100 | legacy-config | none | A massive arcane detonation occurs. Every creature within 40 feet takes 6d6 radiant damage |  |
+| 100 | dedicated | frames inspected (headless) | A massive arcane detonation occurs. Every creature within 40 feet takes 6d6 radiant damage | A rune-ringed circle blazes on the floor, then a single decaying white-gold flash opens into a starburst of ra… |
 | 101 | dedicated | frames inspected (headless) | An eye appears on your forehead for the next minute. During that time, you have advantage  | A vertical slit splits open on the caster's forehead into a golden eye that blinks once, then sweeps a lantern… |
 | 102 | legacy-config | none | For the next minute, all your spells with a casting time of 1 action have a casting time o |  |
 | 103 | dedicated | frames inspected (headless) | You are transported to the Astral Plane until the end of your next turn, after which time  | The ground and sky stretch into horizontal star streaks as the caster, turned to silver, lifts off and glides … |
